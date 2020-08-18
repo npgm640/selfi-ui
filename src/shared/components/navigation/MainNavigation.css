@@ -34,11 +34,15 @@
     height: 100%;
 }
 
+/* If the browser window is 768px or smaller, then apply the properties *
+ */
 @media (min-width: 768px) {
+    /*display: none ; is commonly used with javascript to hide and show elements without deleting and recreating them.
+     */
     .main-navigation__menu-btn {
         display: none;
     }
-
+    /* display the nav links in block one after the other */
     .main-navigation__header-nav {
         display: block;
     }

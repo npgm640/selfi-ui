@@ -71,7 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 #package.json
 npm install --save react-router-dom@5 --save-exact
-
+npm install --save react-transition-group
 
 
     
