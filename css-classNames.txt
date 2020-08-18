@@ -1,0 +1,17 @@
+********************************************************************************************************
+#User-item.css
+********************************************************************************************************
+.user-item
+.user-item a
+.user-item a:hover
+.user-item a:active
+.user-item__content
+.user-item__image
+.user-item__info h2
+.user-item:hover h2
+.user-item:active h2
+.user-item:hover h3
+.user-item:active h3
+.user-item__info h3
+********************************************************************************************************
+
